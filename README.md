@@ -23,11 +23,11 @@
   ##
  
 <div><br>
-  <a style="padding: 10px auto" href="https://wa.link/mecdnq" target="_blank"><img alt="Ronaldeived-Whatsapp" height="5%" width="12%" src="https://static.whatsapp.net/rsrc.php/ym/r/36B424nhiL4.svg" target="_blank">
+  <a style="padding: 10px auto" href="https://wa.link/mecdnq" target="_blank"><img alt="Ronaldeived-Whatsapp" height="5%" width="12%" src="https://static.whatsapp.net/rsrc.php/ym/r/36B424nhiL4.svg">
   </a>
   <br>
   <br> 
-  <a style="margin: 10px auto" href="https://www.linkedin.com/in/ronaldeived" target="_blank"><img align="center"  alt="Ronaldeived-Linkedin" height="5%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" target="_blank">
+  <a style="margin: 10px auto" href="https://www.linkedin.com/in/ronaldeived" target="_blank"><img align="center"  alt="Ronaldeived-Linkedin" height="5%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   </a>
  
   ![Snake animation](https://github.com/ronaldeived/ronaldeived/blob/output/github-contribution-grid-snake.svg)
