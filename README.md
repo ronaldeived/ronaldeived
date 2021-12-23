@@ -5,12 +5,17 @@
 - 👯 I’m looking to collaborate on helping friends and people to get into programming career
 - 💬 Ask me about tech market, .net, tips for career
 
+
+
+<br />
+
 <div align="center">
   <a href="https://github.com/ronaldeived">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldeived&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldeived&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <div style="display: inline_block"><br>
+
+<div style="display: inline_block"><br>
   <img align="center" alt="Ronaldeived-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ronaldeived-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ronaldeived-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -22,13 +27,10 @@
   ##
  
 <div><br>
-  <a style="padding: 10px auto" href="https://wa.link/mecdnq" target="_blank"><img alt="Ronaldeived-Whatsapp" height="5%" width="12%" src="https://static.whatsapp.net/rsrc.php/ym/r/36B424nhiL4.svg">
-  </a>
-  <br>
-  <br> 
-  <a style="margin: 10px auto" href="https://www.linkedin.com/in/ronaldeived" target="_blank"><img align="center"  alt="Ronaldeived-Linkedin" height="5%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-  </a>
- 
-  ![Snake animation](https://github.com/ronaldeived/ronaldeived/blob/output/github-contribution-grid-snake.svg)
- 
+  
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/mecdnq)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldeived)
+[![Blog](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://blog-nextjs-ronaldeived.vercel.app/)
+  
+![Snake animation](https://github.com/ronaldeived/ronaldeived/blob/output/github-contribution-grid-snake.svg)
 </div>
