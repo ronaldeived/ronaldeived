@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on with full stacker developer at GFT Group
+- 🔭 I am currently working as a full stack developer at the GFT Group 
 - 🌱 I’m currently learning React and Next JS
 - 👯 I’m looking to collaborate on helping friends and people to get into programming career
 - 💬 Ask me about tech market, .net, tips for career
