@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I am currently working as a full stack developer at the GFT Group 
-- 🌱 I’m currently learning React and Next JS
-- 👯 I’m looking to collaborate on helping friends and people to get into programming career
+- 🔭 I am currently working as a Software Engineer at the CWI Software 
+- 🌱 I work with .NET and Angular in my day to day work
 - 💬 Ask me about tech market, .net, tips for career
 - 🌎 Look my blog below, created with Next JS
 
